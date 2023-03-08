@@ -1,0 +1,31 @@
+.menu_style{
+display: flex;
+justify-content: space-around;
+}
+.menu_style ul {
+    display: flex;
+  
+}
+.menu_style li {
+    margin-left: 10%;
+    margin-right: 20%;
+    list-style-type:none;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+.menu_style h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+}
+#btn-menu
+{
+    cursor: pointer;
+    border: 1px solid #FB7846;
+    border-radius: 5px;
+    background-color: transparent;
+    /* height: 50px;
+    width: 200px; */
+    color: #FB7846;
+    font-size: 1.5em;
+     box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6); 
+}

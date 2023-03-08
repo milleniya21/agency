@@ -1,0 +1,27 @@
+.title_style
+{
+    
+    align-self: center;
+    margin-right: 500px;
+}
+.title_style h2 {
+    color:#FB7846;
+}
+.title_style h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-stretch: expanded;
+    font-size: 5em;
+}
+.title_style p {
+    
+    font-size: 1.4em;
+}
+#btn-title{
+    padding: 5%;
+    border-radius: 5px;
+    border: none;
+    background-color: #FB7846;
+    color: white;
+    font-size: larger;
+    width:70%;
+}

@@ -1,0 +1,52 @@
+
+.right_style {
+    position:relative;
+}
+
+#oval-outer{
+    mix-blend-mode: multiply;
+    filter: contrast(1);
+    /* opacity: 0.1; */
+}
+
+#oval-inner{
+    position: absolute;
+    left: 40px;
+    top: 40px;
+    /* mix-blend-mode: multiply; 
+    filter: contrast(-5);  */
+}
+#mid-pic{
+    position: absolute;
+    left: 150px;
+    top: 30px;
+    border-radius: 30px;
+    height: 550px;
+    
+}
+#top-man{
+    position: absolute;
+    left: 55px;
+    top: 60px;
+    border-radius: 40px;
+   
+}
+#top-icon {
+    position: absolute;
+    left: 200px;
+    top: 70px;
+    border-radius: 10px;
+}
+#bottom-women{
+    position: absolute;
+    left: 425px;
+    top: 325px;
+    border-radius: 40px;
+   
+}
+#bottom-icon {
+    position: absolute;
+    left: 400px;
+    top: 450px;
+    border-radius: 10px;
+}

@@ -1,0 +1,5 @@
+.header_style{
+    margin: 150px 30px 30px 30px ;
+    display: flex;
+    justify-content: space-around;
+}
