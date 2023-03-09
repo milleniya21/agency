@@ -1,0 +1,69 @@
+.page4_style
+{   padding: 10% 5% 10% 5% ;
+    background-image: url('./page4-img/Oval.png');
+    background-size: cover;
+}
+.page4_style h1 
+{
+  margin-left: 200px;  
+  font-size: 4em;
+  font-family: 'Times New Roman', Times, serif;
+}
+.page4_style h2
+{
+ 
+  font-size: 2em;
+  font-family: 'Times New Roman', Times, serif;
+}
+.page4_style p 
+{
+  
+  font-size:larger;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(151, 140, 140);
+}
+.row1{
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+.row2{
+    display: flex;
+    justify-content: space-evenly;
+}
+#item1 {
+    position: absolute;
+    left: 290px;
+    top: 3450px; 
+     
+}
+#item2 {
+    position: absolute;
+    left: 765px;
+    top: 3450px; 
+     
+}
+#item3 {
+    position: absolute;
+    left: 1245px;
+    top: 3450px; 
+     
+}
+#item4 {
+    position: absolute;
+    left: 285px;
+    top: 3685px; 
+     
+}
+#item5 {
+    position: absolute;
+    left: 765px;
+    top: 3685px; 
+     
+}
+#item6 {
+    position: absolute;
+    left: 1245px;
+    top: 3685px; 
+     
+}
