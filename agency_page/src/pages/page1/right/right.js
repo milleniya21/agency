@@ -3,9 +3,9 @@ import './right.css';
 import logo1 from './right-images/Oval-outer.jpg';
 import logo2 from './right-images/Oval-inner-modified.png';
 import logo3 from './right-images/pic.jpg';
-import logo4 from './right-images/man.jpg';
+import logo4 from './right-images/man.png';
 import logo5 from './right-images/icon-orange.jpg';
-import logo6 from './right-images/women.jpg';
+import logo6 from './right-images/women.png';
 import logo7 from './right-images/icon-blue.jpg';
 // import logo1 from './white.jpg';
 function Right () {
