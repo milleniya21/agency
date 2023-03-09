@@ -1,11 +1,11 @@
 .page1_style{
      background-image: linear-gradient(#f1ccbc ,#bcc4f7); 
-    
+     
     padding: 2%;
      
 }
 .align-section1{
-    margin: 80px 0px 100px 0px;
+    margin: 150px 0px 100px 0px;
     display: flex;
     justify-content: space-between;
     align-items: center;

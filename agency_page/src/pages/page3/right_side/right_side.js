@@ -26,7 +26,7 @@ function Right_side  ()  {
             <p>
                 <img src={logo22} id="round2" alt="bullet2" />
                 <img src={logo23} id="tick2" alt="tick2 " />
-                And in it I met with many
+                 And in it I met with many
             </p>
       
             <p>

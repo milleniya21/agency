@@ -1,15 +1,16 @@
 #oval-in{
     position: absolute;
     left: 0px;
-    top: 1800px;
+    top: 2100px;
 }
 #center-pic{
     position: absolute;
     left: 70px;
-    top: 1890px;
+    top: 2150px;
+    height: 700px;
 }
 #men-pic{
     position: absolute;
-    left: 395px;
-    top: 2065px;
+    left: 460px;
+    top: 2355px;
 }
