@@ -1,12 +1,12 @@
 import React from 'react'
 import './right.css';
-import logo1 from './right-images/Oval-outer.jpg';
-import logo2 from './right-images/Oval-inner-modified.png';
-import logo3 from './right-images/pic.jpg';
+import logo1 from './right-images/Oval-outer.png';
+import logo2 from './right-images/Oval-inner.png';
+import logo3 from './right-images/pic.png';
 import logo4 from './right-images/man.png';
-import logo5 from './right-images/icon-orange.jpg';
+import logo5 from './right-images/icon-orange.png';
 import logo6 from './right-images/women.png';
-import logo7 from './right-images/icon-blue.jpg';
+import logo7 from './right-images/icon-blue.png';
 // import logo1 from './white.jpg';
 function Right () {
   return (

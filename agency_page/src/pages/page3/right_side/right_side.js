@@ -16,23 +16,25 @@ function Right_side  ()  {
         I shall see the face of Mars, anyhow, and that will be a rare experience. It<br></br>
          seems to me that a view of the heavenly bodies through a fine telescope, as <br></br>
           well as a tour round the world, should form a part of a liberal education.<br></br>
-        </p>
-        <div className='bullet-style1'>
-            <span>
-            <img src={logo20} id="round1" alt="bullet1" />
-            <img src={logo21} id="tick1" alt=" tick1" />
-            <p>Truly it was a great journey</p><br></br></span>
-      </div>
-      <div className='bullet-style2'>
-            <img src={logo22} id="round2" alt="bullet2" />
-            <img src={logo23} id="tick2" alt="tick2 " />
-            <p>And in it I met with many</p><br></br>
-      </div>
-      <div className='bullet-style3'>
-            <img src={logo24} id="round3" alt="bullet3 " />
-            <img src={logo25} id="tick3" alt="tick3" />
-            <p>Whom to know was to love</p><br></br>
-      </div>
+        </p>          
+            <p>
+                <img src={logo20} id="round1" alt="bullet1" />
+                <img src={logo21} id="tick1" alt=" tick1" />
+                Truly it was a great journey
+            </p>
+      
+            <p>
+                <img src={logo22} id="round2" alt="bullet2" />
+                <img src={logo23} id="tick2" alt="tick2 " />
+                And in it I met with many
+            </p>
+      
+            <p>
+                <img src={logo24} id="round3" alt="bullet3 " />
+                <img src={logo25} id="tick3" alt="tick3" />
+                Whom to know was to love
+            </p>
+        <button id ="btn_explore ">Explore </button>
     </div>
   )
 }

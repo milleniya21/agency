@@ -1,6 +1,6 @@
 .style-rgt{
     margin-left: 400px;
-    margin-top: 100px;
+    margin-top: 80px;
 }
 .style-rgt h2 {
     font-family: 'Times New Roman', Times, serif;
@@ -11,7 +11,31 @@
 }
 #tick1
 {
+    position: absolute;
+    left: 880px;
+    top: 2230px;
+}
+#tick2
+{
         position: absolute;
         left: 880px;
-    top: 2250px;
+        top: 2295px;
+}
+#tick3
+{
+     position: absolute;
+     left: 880px;
+    top: 2355px; 
+     
+}
+
+.style-rgt button{
+    color: orangered;
+    padding: 3% 10% 3% 10% ;
+    border: 1px solid orangered;
+    background-color: white;
+    border-radius: 5px;
+    font-size: larger;
+    font-weight: bold;
+
 }
