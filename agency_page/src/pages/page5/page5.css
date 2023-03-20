@@ -1,0 +1,55 @@
+.page5_style{
+    margin: 150px 20px 50px 20px ;
+}
+.rowa{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 90px;
+}
+.rowb{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+}
+#b2
+{
+    position: absolute;
+    left: 127px;
+    top: 4430px; 
+}
+#b3
+{
+    position: absolute;
+    left: 447px;
+    top: 4470px; 
+}
+#b4
+{
+    position: absolute;
+    left: 200px;
+    top: 4690px; 
+    
+}
+#b5
+{
+    position: absolute;
+    left:200px;
+    top: 4710px; 
+}
+.rowc{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 100px;
+}
+#btn_explore{
+    padding: 15px;
+    color: #FB7846;
+    background-color: white;
+    border: 1px solid #FB7846;
+    border-radius: 8px;
+    font-weight: 700;
+    margin:auto;
+  display:block;
+  margin-bottom: 150px;
+   
+}

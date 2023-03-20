@@ -13,19 +13,22 @@
 {
     position: absolute;
     left: 880px;
-    top: 2500px;
+    top: 2550px;
+    
 }
 #tick2
 {
         position: absolute;
         left: 880px;
-        top: 2565px;
+        top: 2610px;
+       
 }
 #tick3
 {
      position: absolute;
      left: 880px;
-    top: 2625px; 
+    top: 2675px; 
+  
      
 }
 

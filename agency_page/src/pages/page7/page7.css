@@ -1,0 +1,42 @@
+.page7_style
+{
+    margin: 100px 30px 50px 30px;
+}
+.page7_title{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px ;
+    margin-bottom: 50px;
+}
+.page7_title h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+}
+.page7_title p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+}
+.page7_main{
+    display: flex;
+    justify-content: space-around; 
+}
+#p7b{
+    position: absolute;
+    left:410px;
+    top: 7080px; 
+}
+#p7d{
+    position: absolute;
+    left:950px;
+    top: 7080px; 
+}
+#p7f{
+    position: absolute;
+    left:1500px;
+    top: 7080px; 
+}
+#pin{
+    margin:100px 10px 100px 10px;
+    margin:auto;
+    display:block;
+}
